@@ -1,11 +1,11 @@
-### _Flood-it_ game for GPH Caanoo and Linux
+## _Flood-it_ game for GPH Caanoo and Linux
 
-#### Dependencies:
+### Dependencies:
 
 - SDL library
 - GPH SDK for Caanoo
 
-#### Compilation:
+### Compilation:
 
 #### Linux:
 - type "make -f Makefile.linux"
