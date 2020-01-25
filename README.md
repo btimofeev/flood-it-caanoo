@@ -10,7 +10,7 @@
 #### Linux:
 - type "make -f Makefile.linux"
     
-####Caanoo:
+#### Caanoo:
 - edit SDKDIR in file Makefile.caanoo
 - type "make -f Makefile.caanoo"     
 
